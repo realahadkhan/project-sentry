@@ -51,11 +51,15 @@ Git installed
 
 ## Step 1: Clone the repository
 
-git clone https://github.com/realahadkhan/project-sentry.git   #Run this command in Windows Powershell AFTER opening Powershell in your desired drive and then close.
+git clone https://github.com/realahadkhan/project-sentry.git   
+
+#Run this command in Windows Powershell AFTER opening Powershell in your desired drive and then close.
 
 ## Step 2: Create a virtual environment
 
-python -m venv venv      #Run this command in Windows Powershell BUT this time opened in the newly downloded 'project-sentry' folder.
+python -m venv venv 
+
+#Run this command in Windows Powershell BUT this time opened in the newly downloded 'project-sentry' folder.
 
 ## Step 3: Activate the virtual environment
 
