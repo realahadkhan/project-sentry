@@ -15,7 +15,7 @@ User registration and login with password validation rules
 
 Password hashing using bcrypt
 
-Rate limiting for login attempts
+ANTI-BRUTE FORCE (5 attempts per username and then 5 minutes cooldown)
 
 Two-Factor Authentication (OTP) via console output
 
