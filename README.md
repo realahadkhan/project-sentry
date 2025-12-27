@@ -52,7 +52,6 @@ Git installed
 ## Step 1: Clone the repository
 
 git clone https://github.com/realahadkhan/project-sentry.git
-cd project-sentry
 
 ## Step 2: Create a virtual environment
 
