@@ -22,19 +22,15 @@ Dashboard with project branding
 ## Images
 
 <p align="center">
-  <a href="register.png">
-    <img src="register.png" width="280">
-  </a>
-  <a href="login.png">
-    <img src="login.png" width="280">
-  </a>
-  <a href="dashboard.png">
-    <img src="dashboard.png" width="280">
-  </a>
-  <a href="securitydoc.png">
-    <img src="securitydoc.png" width="280">
-  </a>
+  <a href="register.png"><img src="register.png" width="300"></a>
+  <a href="login.png"><img src="login.png" width="300"></a>
 </p>
+
+<p align="center">
+  <a href="dashboard.png"><img src="dashboard.png" width="300"></a>
+  <a href="securitydoc.png"><img src="securitydoc.png" width="300"></a>
+</p>
+
 
 
 
