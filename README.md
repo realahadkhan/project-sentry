@@ -19,3 +19,4 @@ GitHub integration and security documentation link
 
 Dashboard with project branding
 
+(register.png) (login.png) (dashboard.png) (securitydoc.png)
