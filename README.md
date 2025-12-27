@@ -19,4 +19,24 @@ GitHub integration and security documentation link
 
 Dashboard with project branding
 
-(register.png) (login.png) (dashboard.png) (securitydoc.png)
+-
+
+<p align="center">
+  <a href="/register.png">
+    <img src="/register.png" width="220">
+  </a>
+  <a href="/login.png">
+    <img src="/login.png" width="220">
+  </a>
+</p>
+
+<p align="center">
+  <a href="/dashboard.png">
+    <img src="/dashboard.png" width="220">
+  </a>
+  <a href="/securitydoc.png">
+    <img src="/securitydoc.png" width="220">
+  </a>
+</p>
+
+
